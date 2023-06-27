@@ -650,7 +650,7 @@ input:checked + .slider:before {
                 <div class="collapse navbar-collapse justify-content-between">
                     <div class="header-left">
                         <div class="dashboard_bar">
-                            Ker Ezhi Admin
+                            Dalga Dashboard
                         </div>
                     </div>
                     <ul class="navbar-nav header-right">
@@ -776,7 +776,7 @@ input:checked + .slider:before {
                 </li>
             </ul>
             <div class="copyright">
-                <p><strong>Ker Eazhi Admin Dashboard</strong> &copy; <?php echo date('Y'); ?> All Rights Reserved</p>
+                <p><strong>Dalga Admin Dashboard</strong> &copy; <?php echo date('Y'); ?> All Rights Reserved</p>
                 <!-- <p class="fs-12">Made with <span class="heart"></span> by DexignLab</p> -->
             </div>
         </div>
